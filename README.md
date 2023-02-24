@@ -45,12 +45,12 @@ Hey, Roger Matamoros!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
  ```js
   const WhoAmI = {
     user: "Roger Matamoros",
-    code: ["Javascript", "Python", "Java"],
+    code: ["Javascript", "Python", "Java", "Typescript"],
     askMeAbout: ["web dev", "backend dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express" ],
-            java : ["springboot"],
+            js: ["Node", "Express", "Nest" ],
+            java : ["springboot","Neetbeans"],
             python : ["django"]
         },
         frontend: {
